@@ -1,6 +1,12 @@
 # 🤖 Homework 4: Mobile Robot Navigation 🚀
 ## 📝 Introduction
 
+<p align="center">
+  <img src="image.png" alt="Homework 4" width="80%">
+</p>
+
+
+
 The goal of this assignment is to control a mobile robot to follow a trajectory by implementing an autonomous navigation framework.
 The key objectives include:
 - Building and configuring a simulation world in Gazebo.
