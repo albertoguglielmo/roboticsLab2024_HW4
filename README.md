@@ -2,7 +2,7 @@
 ## 📝 Introduction
 
 <p align="center">
-  <img src="image.png" alt="Homework 4" width="80%">
+  <img src="image.jpg" alt="Homework 4" width="80%">
 </p>
 
 
